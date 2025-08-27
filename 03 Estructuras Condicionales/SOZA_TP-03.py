@@ -1,5 +1,4 @@
 # ====================================================
-# Ejercicio (1)
 print("-------------- Ejercicio 1-------------------")
 
 edad = input("Ingrese su edad: ")
@@ -9,7 +8,6 @@ if edad >= 18:
     print("Es mayor de edad")
 
 # ====================================================
-# Ejercicio (2) 
 print("-------------- Ejercicio 2-------------------")
 
 nota = int(input("Ingrese su nota: "))
@@ -20,7 +18,6 @@ else:
     print("Desaprobaado")
 
 # ====================================================
-# Ejercicio (3)
 print("-------------- Ejercicio 3-------------------")
 
 numeroParImpar = int(input("Ingrese un numero par: "))
@@ -31,7 +28,6 @@ else:
     print("Por favor, ingrese un número par")
 
 # ====================================================
-# Ejercicio (4)
 print("-------------- Ejercicio 4-------------------")
 
 edad2 = input("Ingrese su edad: ")
@@ -50,7 +46,6 @@ else:
     print("Ingrese un numero valido, sin simbolos, puntos y/o letras combinadas con números")
 
 # ====================================================
-# Ejercicio (5)
 print("-------------- Ejercicio 5-------------------")
 
 password = input("Ingrese una contraseña entre 8 y 14 caracteres: ")
@@ -61,7 +56,6 @@ else:
     print("Por favor, ingrese una contraseña de entre 8 y 14 caracteres")
 
 # ====================================================
-# Ejercicio (6)
 print("-------------- Ejercicio 6-------------------")
 
 from statistics import mode, median, mean
@@ -85,7 +79,6 @@ else:
     print("No se puede determinar el Sesgo con los datos aleatorios obtenidos")
 
 # ====================================================
-# Ejercicio (7)
 print("-------------- Ejercicio 7-------------------")
 
 palabra = input("Ingrese una frase o palabra: ")
@@ -96,7 +89,6 @@ else:
     print(palabra)
 
 # ====================================================
-# Ejercicio (8)
 print("-------------- Ejercicio 8-------------------")
 
 nombre = input("Ingrese su nombre: ")
@@ -119,7 +111,6 @@ else:
     print("No ingreso un nombre valido o simplemente no ingreso nada")
 
 # ====================================================
-# Ejercicio (9)
 print("-------------- Ejercicio 9-------------------")
 
 terremoto = input("Ingrese el número, correspondiente a la magnitud de un terremoto: ")
@@ -142,7 +133,6 @@ else:
     print("No ingreso un número o simplemente no ingreso nada")
 
 # ====================================================
-# Ejercicio 10
 print("-------------- Ejercicio 10-------------------")
 
 print("En cual hemisferio se encuenta?")
