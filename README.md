@@ -1,20 +1,18 @@
-# 💻 UTN - Programación 1 
+# 💻 Programación 1  
+**Tecnicatura Universitaria en Programación**  
+📍 *Universidad Tecnológica Nacional*  
 
-Este repositorio contiene los trabajos prácticos realizados para la materia **Programación 1** de la carrera **Tecnicatura Universitaria en Programación**.
+## ✨ Estudiante  
+- **Nombre:** Soza, Jonathan Eduardo   
+- **Comisión:** M2025-13
 
-## 📚 Objetivo
+## 📂 Descripción del Repositorio  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
 
-Documentar y versionar los ejercicios, prácticas y proyectos desarrollados a lo largo del curso, aplicando conceptos fundamentales de programación.
-
-## 🚀 Tecnologías utilizadas
-
-- Lenguaje: [Python]
-- Editor: [Visual Studio Code]
-- Control de versiones: [Git + GitHub]
-
-## 📌 Notas
-
-Este repositorio está en constante actualización.
+📌 **Estructura del repositorio:**  
+- Cada trabajo está organizado en carpetas individuales.  
+- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
+- Se busca mantener un código limpio, ordenado y bien documentado. 
 
 ---
 
